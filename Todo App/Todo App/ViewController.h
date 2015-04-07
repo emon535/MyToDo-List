@@ -8,8 +8,24 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UITableViewController
 
+//Decleration;
+// Configure todo List item Class ;
+
+
+-(void)loadInitialData ;
+
+
+@end
+
+
+
+
+
+@interface ToDoListTableViewController:NSObject
+
+@property NSMutableArray *toDoItems;
 
 @end
 

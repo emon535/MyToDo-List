@@ -412,6 +412,7 @@
 				3B6283FF1AD2D5990047B41C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B6284001AD2D5990047B41C /* Build configuration list for PBXNativeTarget "Todo AppTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				3B6284021AD2D5990047B41C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
